@@ -2,7 +2,7 @@
 	"name" : "simule",
 	"version" : 1,
 	"creationdate" : 3746315660,
-	"modificationdate" : 3746315674,
+	"modificationdate" : 3746315814,
 	"viewrect" : [ 25.0, 106.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -24,6 +24,7 @@
 			"Harmonizer Simule.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
+				"toplevel" : 1,
 				"singleton" : 				{
 					"bootpath" : "~/Projects/Simule/simule/patch/patchers",
 					"projectrelativepath" : "../patchers"
@@ -34,6 +35,7 @@
 			"Loop System Simule.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
+				"toplevel" : 1,
 				"singleton" : 				{
 					"bootpath" : "~/Projects/Simule/simule/patch/patchers",
 					"projectrelativepath" : "../patchers"
