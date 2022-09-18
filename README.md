@@ -1,12 +1,6 @@
 # Simule
 **Max 7 Patch and Assets for 'Simule' Composition**
 
-<div align="center">
-<p>
-<img src="https://user-images.githubusercontent.com/79285555/190882438-f145269d-840e-4dab-930c-baf9548e583a.jpg" alt="prix d'ete 2018 flyer" width="400"/>
-<p>'Simule' was awarded second place at the 2018 Prix d'Ete at the Peabody Music Conservatory</p>
-</p>
-</div>
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/79285555/190884330-025a2b29-c89b-40d1-b4bf-256c4c40f730.gif" alt="simule max patch demo" width="800"/>
@@ -20,6 +14,13 @@
 2016 Performance from '12 Minutes Max' concert series at the Salt Lake City Library
 </p>
 </a>
+</div>
+
+<div align="center">
+<p>
+<img src="https://user-images.githubusercontent.com/79285555/190882438-f145269d-840e-4dab-930c-baf9548e583a.jpg" alt="prix d'ete 2018 flyer" width="400"/>
+<p>'Simule' was awarded second place at the 2018 Prix d'Ete at the Peabody Music Conservatory</p>
+</p>
 </div>
 
 ## Description
